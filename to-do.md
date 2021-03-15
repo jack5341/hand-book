@@ -1,4 +1,0 @@
-## Frontend
-- [x] Internet
-
-## Backend
